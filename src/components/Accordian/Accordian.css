@@ -1,0 +1,23 @@
+.main{
+    text-align: center;
+}
+
+.complete-accordian{
+     border:2px solid black;
+     width: 800px;
+     
+     margin-top: 10px;
+}
+.accordian{
+    display: flex;
+    justify-content: space-between;   
+}
+.button-accordian{
+    height: 40px;
+    padding-top: 12px;
+    padding-right: 8px;
+}
+
+.notShowPara{
+    opacity: 0;
+}
