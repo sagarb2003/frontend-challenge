@@ -1,6 +1,7 @@
 import Accordian from "./components/Accordian/Accordian";
 import Counter from "./components/Counter";
 import ImageGallery from "./components/ImageGallery";
+import StarRating from "./components/StarRating";
 
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <>
      {/* <Counter/> */}
      {/* <ImageGallery/> */}
-     <Accordian/>
+     {/* <Accordian/> */}
+     <StarRating/>
     </>
   );
 }
